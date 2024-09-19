@@ -8,3 +8,13 @@ PCB Visit Card designed around nRF 52832 Nordic chip
 ![image](https://github.com/user-attachments/assets/ddf66f56-fcfb-4f65-b5bc-f648f18b45ca)
 
 ![image](https://github.com/user-attachments/assets/43cd5d5b-b40b-415f-b020-4431bbd3a8c2)
+
+# nRF Connect notes
+
+To enable internal oscilator for nRF52832 in the proj.conf file add:
+````
+CONFIG_CLOCK_CONTROL_NRF_K32SRC_RC=y
+CONFIG_CLOCK_CONTROL_NRF_K32SRC_500PPM=y
+CONFIG_CLOCK_CONTROL_NRF_K32SRC_RC_CALIBRATION=y
+CONFIG_CLOCK_CONTROL_NRF_CALIBRATION_LF_ALWAYS_ON=y
+````
