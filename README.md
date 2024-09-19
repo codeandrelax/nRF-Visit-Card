@@ -32,12 +32,12 @@ Save the project in VS code and save the VS code workspace. Once the workspace i
 Modify this file to include softreset enable. Search for "settings" item in this json file.
 ````
 "settings": {
-		"nrf-connect.applicationOptions": {
-			"${workspaceFolder}": {
-				"flash": {
-				"softreset": true
-				}
+	"nrf-connect.applicationOptions": {
+		"${workspaceFolder}": {
+			"flash": {
+			"softreset": true
 			}
 		}
 	}
+}
 ````
