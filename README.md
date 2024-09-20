@@ -41,3 +41,9 @@ Modify this file to include softreset enable. Search for "settings" item in this
 	}
 }
 ````
+
+Instead of modifying json file, you can also manually program the device by:
+````
+ nrfjprog --eraseuicr --program <path to hex file> --verify
+````
+ Example paht: c:\Users\dprerad\Desktop\bt-fund\lesson3\blefund_less3_exer1\build\zephyr\zephyr.hex
