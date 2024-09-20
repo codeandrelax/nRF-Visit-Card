@@ -48,3 +48,5 @@ Instead of modifying json file, you can also manually program the device by:
  nrfjprog --program <path to hex file> --verify
 ````
  Example path: c:\Users\dprerad\Desktop\bt-fund\lesson3\blefund_less3_exer1\build\zephyr\zephyr.hex
+
+ You might need to reset the board after this - unplug it and plug it back in.
