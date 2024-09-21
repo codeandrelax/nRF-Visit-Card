@@ -11,6 +11,8 @@ This repository contains PCB design files for Visit Card designed around nRF 528
 - Exposed programming pads
 - Exposed UART pads
 
+Visit Card has meandering line antenna for bluetooth connectivity.
+
 To reduce cost, component count and layout space, microcontroller uses internal RC oscilator.
 Board is designed as a 4 layer board with stackup:
 - Top and bottom layer are signal layers
