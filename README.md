@@ -1,5 +1,22 @@
 # nRF-Visit-Card
-PCB Visit Card designed around nRF 52832 Nordic chip
+This repository contains PCB design files for Visit Card designed around nRF 52832 Nordic chip as well as firmware running on it.
+
+## Visit Card features
+- User button
+- Powered with CR2032 battery
+- Bluetooth connectivity
+- Magnetometer / compass with HMC5883L IC
+- Array of1 12 circulary arranged LEDs to be used as compass
+- Array of 6 linearly arranged LEDs to be used for custom needs
+- Exposed programming pads
+- Exposed UART pads
+
+To reduce cost, component count and layout space, microcontroller uses internal RC oscilator.
+
+## Firmware functionalities
+To be done...
+
+## Renders of the board
 
 ![image](https://github.com/user-attachments/assets/44cbd81e-2d5b-4657-8ca4-7464be555d9f)
 
@@ -8,6 +25,11 @@ PCB Visit Card designed around nRF 52832 Nordic chip
 ![image](https://github.com/user-attachments/assets/ddf66f56-fcfb-4f65-b5bc-f648f18b45ca)
 
 ![image](https://github.com/user-attachments/assets/43cd5d5b-b40b-415f-b020-4431bbd3a8c2)
+
+## Soldered board
+
+![image](https://github.com/user-attachments/assets/8aa683d2-f650-419b-bce5-8ee3a23b7501)
+
 
 # nRF Connect notes
 
