@@ -11,6 +11,13 @@ PCB Visit Card designed around nRF 52832 Nordic chip
 
 # nRF Connect notes
 
+## How to program the board
+
+(nRF52 DK)[https://www.nordicsemi.com/Products/Development-hardware/nRF52-DK] can be used to programm the board. 
+
+nRF Visit Card board has exposed pads that are used for programming.
+![visitCard_programming_witg_nRF52_DK](https://github.com/user-attachments/assets/778b8e47-01ea-46b1-b14c-1322ab45e64c)
+
 ## Internal oscilator enable
 
 To enable internal oscilator for nRF52832 in the proj.conf file add:
