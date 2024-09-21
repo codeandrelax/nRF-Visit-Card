@@ -57,3 +57,8 @@ Instead of modifying json file, you can also manually program the device by:
  Example path: c:\Users\dprerad\Desktop\bt-fund\lesson3\blefund_less3_exer1\build\zephyr\zephyr.hex
 
  You might need to reset the board after this - unplug it and plug it back in.
+
+ # Library of knowledge
+
+ [nRF Connect SDK Fundamentals](https://academy.nordicsemi.com/courses/nrf-connect-sdk-fundamentals/)
+ [Bluetooth Low Energy Fundamentals](https://academy.nordicsemi.com/courses/bluetooth-low-energy-fundamentals/)
