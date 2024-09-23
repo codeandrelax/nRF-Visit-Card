@@ -89,6 +89,11 @@ Instead of modifying json file, you can also manually program the device by:
 
  You might need to reset the board after this - unplug it and plug it back in.
 
+## If _printk_ is not working
+In the proj.conf file add:
+````
+CONFIG_CONSOLE=y
+````
  # Library of knowledge
 
  [nRF Connect SDK Fundamentals](https://academy.nordicsemi.com/courses/nrf-connect-sdk-fundamentals/)
