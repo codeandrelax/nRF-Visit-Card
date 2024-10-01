@@ -18,7 +18,7 @@ Board is designed as a 4 layer board with stackup:
 - Top and bottom layer are signal layers
 - Power plane and ground plane are the two middle layers
 
-![image](https://github.com/user-attachments/assets/8d97ac7f-daa9-4a41-b60d-32f37d61a2e9)
+![image](https://github.com/user-attachments/assets/8589ff6a-9532-4c5c-9bc0-68de45dbeede)
 
 
 ## Firmware functionalities
