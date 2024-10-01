@@ -21,6 +21,7 @@ Board is designed as a 4 layer board with stackup:
 ![image](https://github.com/user-attachments/assets/8589ff6a-9532-4c5c-9bc0-68de45dbeede)
 
 This is how it started:
+
 <img src="https://github.com/user-attachments/assets/11025395-a15e-4ba9-b2d4-a1033ff08f3d" width="300">
 
 ## Firmware functionalities
