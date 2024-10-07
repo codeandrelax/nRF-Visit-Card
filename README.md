@@ -25,7 +25,7 @@ This is how it started:
 <img src="https://github.com/user-attachments/assets/11025395-a15e-4ba9-b2d4-a1033ff08f3d" width="300">
 
 ## Firmware functionalities
-To be done...
+<img src="nRF_visitCard_firmware_functions.png" width="300">
 
 ## Schematics
 
