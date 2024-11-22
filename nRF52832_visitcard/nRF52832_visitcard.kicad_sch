@@ -3642,6 +3642,9 @@
     (property "Datasheet" "~" (at 207.01 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "LCSC" "C499301" (at 201.93 138.43 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 6daadf59-7756-4dca-9f45-37326d56af18))
     (pin "2" (uuid 3c4c0ae8-4252-4f36-bbd5-30e4cec8fca1))
     (instances
