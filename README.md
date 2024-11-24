@@ -55,6 +55,10 @@ This is how it started:
 nRF Visit Card board has exposed pads that are used for programming.
 ![visitCard_programming_witg_nRF52_DK](https://github.com/user-attachments/assets/778b8e47-01ea-46b1-b14c-1322ab45e64c)
 
+### Pinout
+
+![image](https://github.com/user-attachments/assets/a7e94f38-904f-421a-b804-ea394c2b5d63)
+
 ## Internal oscilator enable
 
 To enable internal oscilator for nRF52832 in the proj.conf file add:
