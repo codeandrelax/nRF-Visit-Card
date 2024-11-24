@@ -4881,7 +4881,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 143.51 139.7 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid e865f579-137c-414d-be9e-9b9a4d11bbdc)
     (property "Reference" "C15" (at 139.7 139.7 90)
       (effects (font (size 1.27 1.27)))
