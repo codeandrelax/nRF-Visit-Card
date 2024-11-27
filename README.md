@@ -34,15 +34,6 @@ This is how it started:
 ![image](https://github.com/user-attachments/assets/41059760-dbab-4f64-ac20-5e2e05677276)
 
 
-## Layout - bottom copper layer
-
-![image](https://github.com/user-attachments/assets/944f7d11-1d3f-49a6-a678-71cc5e9d8775)
-
-
-# Rendered images of the board
-
-![image](https://github.com/user-attachments/assets/ddf66f56-fcfb-4f65-b5bc-f648f18b45ca)
-
 ![image](https://github.com/user-attachments/assets/6245c739-601c-4fdf-a974-a043f2d8678f)
 
 
@@ -68,6 +59,16 @@ This is how it started:
 
 
 ![image](https://github.com/user-attachments/assets/4b402ca1-72bf-458c-afe3-039e21d39bda)
+
+## Layout - bottom copper layer
+
+![image](https://github.com/user-attachments/assets/944f7d11-1d3f-49a6-a678-71cc5e9d8775)
+
+
+# Rendered images of the board
+
+![image](https://github.com/user-attachments/assets/ddf66f56-fcfb-4f65-b5bc-f648f18b45ca)
+
 
 
 ## Soldered board
