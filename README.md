@@ -31,15 +31,45 @@ This is how it started:
 
 ![image](https://github.com/user-attachments/assets/44cbd81e-2d5b-4657-8ca4-7464be555d9f)
 
+![image](https://github.com/user-attachments/assets/41059760-dbab-4f64-ac20-5e2e05677276)
+
+
+![image](https://github.com/user-attachments/assets/6245c739-601c-4fdf-a974-a043f2d8678f)
+
+
+![image](https://github.com/user-attachments/assets/9695e5d8-12e0-4b5b-81b7-b206917b640f)
+
+
+![image](https://github.com/user-attachments/assets/cd7313c1-e0a2-4602-803e-3325d0341923)
+
+
+![image](https://github.com/user-attachments/assets/94b7cabe-fce5-4caa-a3c1-a3271ef415c1)
+
+
+![image](https://github.com/user-attachments/assets/8956ef3f-d99e-4088-82a9-a7bc84e0e17b)
+
+
+![image](https://github.com/user-attachments/assets/9c81f184-08eb-4778-8a4b-53350d1dd8d7)
+
+
+![image](https://github.com/user-attachments/assets/79bf2153-890b-4bf6-9e1f-79c108f14d09)
+
+
+![image](https://github.com/user-attachments/assets/8a80f6cd-471d-46ce-a88c-4ed48157790a)
+
+
+![image](https://github.com/user-attachments/assets/4b402ca1-72bf-458c-afe3-039e21d39bda)
+
 ## Layout - bottom copper layer
 
-![image](https://github.com/user-attachments/assets/8563e602-7cf3-4d23-bd46-ceaeef5357ea)
+![image](https://github.com/user-attachments/assets/944f7d11-1d3f-49a6-a678-71cc5e9d8775)
+
 
 # Rendered images of the board
 
 ![image](https://github.com/user-attachments/assets/ddf66f56-fcfb-4f65-b5bc-f648f18b45ca)
 
-![image](https://github.com/user-attachments/assets/43cd5d5b-b40b-415f-b020-4431bbd3a8c2)
+
 
 ## Soldered board
 
@@ -54,6 +84,10 @@ This is how it started:
 
 nRF Visit Card board has exposed pads that are used for programming.
 ![visitCard_programming_witg_nRF52_DK](https://github.com/user-attachments/assets/778b8e47-01ea-46b1-b14c-1322ab45e64c)
+
+### Pinout
+
+![image](https://github.com/user-attachments/assets/a7e94f38-904f-421a-b804-ea394c2b5d63)
 
 ## Internal oscilator enable
 
