@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "QMC5883L")(type "KiCad")(uri "${KIPRJMOD}/QMC5883L/QMC5883L.kicad_sym")(options "")(descr ""))
+)
