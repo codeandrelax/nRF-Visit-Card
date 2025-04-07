@@ -134,6 +134,13 @@ In the proj.conf file add:
 ````
 CONFIG_CONSOLE=y
 ````
+## Disabling NFC pins
+Pins P0.09 and P0.10 are NFC pins and if you wan't to use them as GPIO pins you need to disable NFC.
+[nrf52 enabling gpio on nfc pins](https://devzone.nordicsemi.com/f/nordic-q-a/35505/nrf52-enabling-gpio-on-nfc-pins)
+```
+CONFIG_NFCT_PINS_AS_GPIOS=y
+```
+
  # Library of knowledge
 
  [nRF Connect SDK Fundamentals](https://academy.nordicsemi.com/courses/nrf-connect-sdk-fundamentals/)
