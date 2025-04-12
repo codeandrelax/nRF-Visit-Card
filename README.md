@@ -141,7 +141,25 @@ Pins P0.09 and P0.10 are NFC pins and if you wan't to use them as GPIO pins you 
 CONFIG_NFCT_PINS_AS_GPIOS=y
 ```
 
- # Library of knowledge
+## Enable printing via SWD IO and SWD CLK
+In the proj.conf file add:
+```
+CONFIG_LOG=y
+CONFIG_UART_CONSOLE=n
+CONFIG_RTT_CONSOLE=y
+CONFIG_USE_SEGGER_RTT=y
+```
+then you can use `printf` function.
+```
+uint16_t a = getAzimuth();
+printf("Azimuth: %d\n", a);
+```
+Make sure to connect to RTT (Real-Time Transfer).
+![image](https://github.com/user-attachments/assets/58fd4cd7-d903-4973-94fc-a56841d6754f)
+
+## 
+
+ # Knowledge Library
 
  [nRF Connect SDK Fundamentals](https://academy.nordicsemi.com/courses/nrf-connect-sdk-fundamentals/)
  
