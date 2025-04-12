@@ -155,6 +155,7 @@ uint16_t a = getAzimuth();
 printf("Azimuth: %d\n", a);
 ```
 Make sure to connect to RTT (Real-Time Transfer).
+
 ![image](https://github.com/user-attachments/assets/58fd4cd7-d903-4973-94fc-a56841d6754f)
 
 ## 
