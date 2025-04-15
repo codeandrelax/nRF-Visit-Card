@@ -116,33 +116,6 @@ nrfjprog --eraseuicr
 nrfjprog --program <path to hex file> --verify
 ```
 
-/*
- *In the proj.conf file add:
- *````
- *CONFIG_GPIO_AS_PINRESET=n
- *````
- *
- *Save the project in VS code and save the VS code workspace. Once the workspace is saved, there should be a file named <workspace name>.code-workspace.
- *Modify this file to include softreset enable. Search for "settings" item in this json file.
- *````
- *"settings": {
- *	"nrf-connect.applicationOptions": {
- *		"${workspaceFolder}": {
- *			"flash": {
- *			"softreset": true
- *			}
- *		}
- *	}
- *}
- *````
- *
- *Instead of modifying json file, you can also manually program the device by:
- *````
- * nrfjprog --eraseuicr
- * nrfjprog --program <path to hex file> --verify
- *````
- * Example path: c:\Users\dprerad\Desktop\bt-fund\lesson3\blefund_less3_exer1\build\zephyr\zephyr.hex
-
  You might need to reset the board after this - unplug it and plug it back in.
 
 ## If _printk_ is not working
