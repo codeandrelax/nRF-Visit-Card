@@ -122,22 +122,8 @@ I enjoy building things I can be proud of—and I’m always open to feedback an
 If anything in this project sparks your interest or you’d like to collaborate, feel free to reach out.
 
 
-## Visit Card features
-- User button
-- Powered with CR2032 battery
-- Bluetooth connectivity
-- Magnetometer / compass with HMC5883L IC
-- Array of1 12 circulary arranged LEDs to be used as compass
-- Array of 6 linearly arranged LEDs to be used for custom needs
-- Exposed programming pads
-- Exposed UART pads
+## Detailed
 
-Visit Card has meandering line antenna for bluetooth connectivity.
-
-To reduce cost, component count and layout space, microcontroller uses internal RC oscilator.
-Board is designed as a 4 layer board with stackup:
-- Top and bottom layer are signal layers
-- Power plane and ground plane are the two middle layers
 
 ![image](https://github.com/user-attachments/assets/8589ff6a-9532-4c5c-9bc0-68de45dbeede)
 
@@ -145,10 +131,7 @@ This is how it started:
 
 <img src="https://github.com/user-attachments/assets/11025395-a15e-4ba9-b2d4-a1033ff08f3d" width="300">
 
-## Firmware functionalities
-<img src="nRF_visitCard_firmware_functions.png" width="600">
-
-## Schematics
+### Schematics
 
 ![image](https://github.com/user-attachments/assets/44cbd81e-2d5b-4657-8ca4-7464be555d9f)
 
@@ -181,18 +164,18 @@ This is how it started:
 
 ![image](https://github.com/user-attachments/assets/4b402ca1-72bf-458c-afe3-039e21d39bda)
 
-## Layout - bottom copper layer
+### Layout - bottom copper layer
 
 ![image](https://github.com/user-attachments/assets/944f7d11-1d3f-49a6-a678-71cc5e9d8775)
 
 
-# Rendered images of the board
+### Rendered images of the board
 
 ![image](https://github.com/user-attachments/assets/ddf66f56-fcfb-4f65-b5bc-f648f18b45ca)
 
 
 
-## Soldered board
+### Soldered board
 
 ![image](https://github.com/user-attachments/assets/8aa683d2-f650-419b-bce5-8ee3a23b7501)
 
@@ -275,3 +258,8 @@ Make sure to connect to RTT (Real-Time Transfer).
  [nRF Connect SDK Fundamentals](https://academy.nordicsemi.com/courses/nrf-connect-sdk-fundamentals/)
  
  [Bluetooth Low Energy Fundamentals](https://academy.nordicsemi.com/courses/bluetooth-low-energy-fundamentals/)
+
+ [Find BLE devices](https://developer.android.com/develop/connectivity/bluetooth/ble/find-ble-devices#java)
+
+ [Processing for Android](https://android.processing.org/tutorials/android_studio/index.html)
+
