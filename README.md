@@ -137,30 +137,21 @@ This is how it started:
 
 ![image](https://github.com/user-attachments/assets/41059760-dbab-4f64-ac20-5e2e05677276)
 
-
 ![image](https://github.com/user-attachments/assets/6245c739-601c-4fdf-a974-a043f2d8678f)
 
-
-![image](https://github.com/user-attachments/assets/9695e5d8-12e0-4b5b-81b7-b206917b640f)
-
+![image](https://github.com/user-attachments/assets/8b9f0610-a25e-4620-b2d5-e3a5dcfa88a3)
 
 ![image](https://github.com/user-attachments/assets/cd7313c1-e0a2-4602-803e-3325d0341923)
 
-
 ![image](https://github.com/user-attachments/assets/94b7cabe-fce5-4caa-a3c1-a3271ef415c1)
-
 
 ![image](https://github.com/user-attachments/assets/8956ef3f-d99e-4088-82a9-a7bc84e0e17b)
 
-
 ![image](https://github.com/user-attachments/assets/9c81f184-08eb-4778-8a4b-53350d1dd8d7)
-
 
 ![image](https://github.com/user-attachments/assets/79bf2153-890b-4bf6-9e1f-79c108f14d09)
 
-
 ![image](https://github.com/user-attachments/assets/8a80f6cd-471d-46ce-a88c-4ed48157790a)
-
 
 ![image](https://github.com/user-attachments/assets/4b402ca1-72bf-458c-afe3-039e21d39bda)
 
