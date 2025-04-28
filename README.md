@@ -171,8 +171,7 @@ This is how it started:
 
 ### Rendered images of the board
 
-![image](https://github.com/user-attachments/assets/ddf66f56-fcfb-4f65-b5bc-f648f18b45ca)
-
+![image](https://github.com/user-attachments/assets/3d11ae1a-7013-42e0-9e15-d7cafc779567)
 
 
 ### Soldered board
